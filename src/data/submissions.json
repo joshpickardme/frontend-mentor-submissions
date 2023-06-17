@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "img": "src/assets/examplecardimage.jpg",
+        "heading": "Newsletter sign-up form with success message",
+        "languages": {
+            "HTML": true,
+            "CSS": true,
+            "JS": true,
+            "API": false
+        },
+        "description": "This is a basic form that tested my abilities to structure, validate and submit data. The success state also manipulates the DOM.",
+        "link": "https://www.google.com"
+    }
+]

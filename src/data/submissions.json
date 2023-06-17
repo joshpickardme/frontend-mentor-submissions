@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "src/assets/examplecardimage.jpg",
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1685103838/Challenges/rnhx0ccfuqrdx3udhhr8.jpg",
         "heading": "Newsletter sign-up form with success message",
         "languages": {
             "HTML": true,
